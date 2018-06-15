@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Azure.EscalaHorizontal.Core\Azure.EscalaHorizontal.Core.csproj" />
+    <ProjectReference Include="..\Azure.EscalaHorizontal.Common\Azure.EscalaHorizontal.Common.csproj" />
   </ItemGroup>
 
 </Project>
